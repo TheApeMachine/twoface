@@ -1,7 +1,3 @@
-Sure, let's write a comprehensive and engaging `README.md` for the `twoface` package.
-
----
-
 # twoface 🦇🃏
 
 > Inspired by Two-Face, the Batman villain who embodies duality, `twoface` is a Go package designed to provide powerful functional and concurrency primitives. Just like Two-Face operates with two personalities concurrently, this package helps you manage complex functional and concurrent programming tasks seamlessly.
